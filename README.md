@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a student study in ASU
+I'm learning AI with differet tools, include autoKeras.
+I want to be a data scientist
+
 <!--
 **huanatasu/huanatasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
